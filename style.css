@@ -1,0 +1,16 @@
+body{
+background:lightblue;
+color: rgb(0, 155, 147);
+}
+.heading{
+    width: 80%;
+    font-size: xx-large;
+}
+#camera{
+    width: 350px;
+    height: 350px;
+    border: 3px dashed black;
+}
+.name_of_object{
+    color: firebrick;
+}
